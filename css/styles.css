@@ -1,0 +1,24 @@
+* {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+img {
+    border: 2px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+    background-color: yellow;
+}
+
